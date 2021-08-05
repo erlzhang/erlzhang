@@ -8,6 +8,8 @@ I’m passionate about programming, design and user experience. I like building 
 
 I like writing. If you happen to be familiar with Chinese, you can find more articles and novels from [my Chinese blog](https://erl.im).
 
+[![Eerlzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlzhang)](https://github.com/erlzhang/github-readme-stats)
+
 <!--
 **erlzhang/erlzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
