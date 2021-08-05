@@ -8,7 +8,7 @@ I’m passionate about programming, design and user experience. I like building 
 
 I like writing. If you happen to be familiar with Chinese, you can find more articles and novels from [my Chinese blog](https://erl.im).
 
-[![Eerlzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlzhang&show_icons=true)](https://github.com/erlzhang/github-readme-stats)
+[![Eerlzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlzhang&show_icons=true)](https://github.com/erlzhang)
 
 
 <!--
